@@ -1,0 +1,4 @@
+unity
+เหลือโค้ด EnemyRedDogAttack
+เอา EnemyRedDogAttack ลากมาใส่ใน Attack and focex y z ไม้ขึ้น
+โค้ดใน playerMovecontrol
